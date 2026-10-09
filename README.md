@@ -40,6 +40,6 @@ A: The existing one is pretty old, and is really an hassle to use, from simply m
 [Inter](https://fonts.google.com/specimen/Inter), Licensed under the SIL Open Font License, Version 1.1.
 
 ## Special Thanks
-- [Yashajin](https://github.com/Yasha-jin) for making the program
+- [Yashajin](https://github.com/Yasha-jin), for making the program
 - [Jolene](https://github.com/joleskins), for designing the UI, wouldn't look good without her 👍
 - Gazelle, for giving permission to use the EO2 branding
