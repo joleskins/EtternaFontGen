@@ -32,10 +32,6 @@ A: All the character sets in the generator are based on pre-existing sets, from 
 
 A: As much as the tool try to have accurate alignment, the result might not be what you want. However it is possible to change that yourself. Learn how to do that [Here](https://github.com/Yasha-jin/EtternaFontGen/wiki/How-to-manually-change-alignment).
 
-**Q: Will you support Linux/MacOS ?**
-
-A: I have no idea how font work on those platform.
-
 **Q: Why make a new font generator ?**
 
 A: The existing one is pretty old, and is really an hassle to use, from simply making it work, to using separate program (?????) for latin and jp character. So i made a new one, which is plug-n-play, and it just work. No more pain.
@@ -44,5 +40,6 @@ A: The existing one is pretty old, and is really an hassle to use, from simply m
 [Inter](https://fonts.google.com/specimen/Inter), Licensed under the SIL Open Font License, Version 1.1.
 
 ## Special Thanks
+- [Yashajin](https://github.com/Yasha-jin) for making the program
 - [Jolene](https://github.com/joleskins), for designing the UI, wouldn't look good without her 👍
-- Gazelle, for giving me permission to use the EO2 branding
+- Gazelle, for giving permission to use the EO2 branding
