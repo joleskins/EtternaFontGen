@@ -41,5 +41,8 @@ A: The existing one is pretty old, and is really an hassle to use, from simply m
 
 ## Special Thanks
 - [Yashajin](https://github.com/Yasha-jin), for making the program
-- [Jolene](https://github.com/joleskins), for designing the UI, wouldn't look good without her 👍
+- [Jole](https://github.com/joleskins), for designing the UI, wouldn't look good without her 👍
 - Gazelle, for giving permission to use the EO2 branding
+
+## Repository Ownership
+Since [Yashajin](https://github.com/Yasha-jin) wished to abandon the repository, the ownership has been transferred to [Jole](https://github.com/joleskins) to keep issues and PR's open. All credit for writing the program still goes to [Yashajin](https://github.com/Yasha-jin)
